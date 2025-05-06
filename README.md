@@ -1,1 +1,1 @@
-# This repo contains login and signin tests
+# This repo contains login and signup tests cases
