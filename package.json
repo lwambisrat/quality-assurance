@@ -1,0 +1,20 @@
+{
+  "name": "quality-assurance",
+  "version": "1.0.0",
+  "description": "",
+  "main": "login.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lwambisrat/quality-assurance.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lwambisrat/quality-assurance/issues"
+  },
+  "homepage": "https://github.com/lwambisrat/quality-assurance#readme"
+}
